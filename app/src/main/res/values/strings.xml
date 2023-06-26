@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Store_Data_Using_Shared_Preferances</string>
+    <string name="store_data_n_and_retrieval">Store Data \n and Retrieval</string>
+    <string name="value">Value</string>
+    <string name="key">Key</string>
+    <string name="go">GO</string>
+    <string-array name="store_data">
+        <item>Store Data</item>
+        <item>Restore Data</item>
+    </string-array>
+</resources>
